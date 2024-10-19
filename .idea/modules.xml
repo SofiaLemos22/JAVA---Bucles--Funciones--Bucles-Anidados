@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Bucles/Bucles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Bucles Anidados/Bucles Anidados.iml" filepath="$PROJECT_DIR$/Bucles Anidados/Bucles Anidados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuclesAnidados/BuclesAnidados.iml" filepath="$PROJECT_DIR$/BuclesAnidados/BuclesAnidados.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funciones/Funciones.iml" filepath="$PROJECT_DIR$/Funciones/Funciones.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TAREA JAVA Bucles, Funciones y Bucles Anidados.iml" filepath="$PROJECT_DIR$/.idea/TAREA JAVA Bucles, Funciones y Bucles Anidados.iml" />
     </modules>
