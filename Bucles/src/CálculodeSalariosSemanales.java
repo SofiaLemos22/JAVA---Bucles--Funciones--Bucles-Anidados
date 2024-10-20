@@ -22,7 +22,7 @@ public class CálculodeSalariosSemanales {
         int[] horasTrabajadas = new int[cantidadEmpleados];
 
         // Bucle para pedir las horas trabajadas de cada empleado
-        for (int i = 0; i < cantidadEmpleados; i++) {
+            for (int i = 0; i < cantidadEmpleados; i++) {
             String inputHoras = JOptionPane.showInputDialog(null, "Ingrese las horas trabajadas por el empleado " + (i + 1) + ":", "Horas de Trabajo", JOptionPane.QUESTION_MESSAGE);
             horasTrabajadas[i] = Integer.parseInt(inputHoras);
         }
